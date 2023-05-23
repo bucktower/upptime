@@ -1,24 +1,29 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: bucktower # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Who Is Buck Tower?
+    url: https://whoisbucktower.com
+  - name: Buck Tower
+    url: https://bucktower.net
+  - name: Andrew Tower
+    url: https://andrewtower.com
+  - name: Buck.FYI
+    url: https://buck.fyi
+  - name: Buck.Band
+    url: https://buck.band
+  - name: Buck.Fun
+    url: https://buck.fun
+  assignees:
+    - bucktower
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: up.buck.fyi
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Buck's Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
