@@ -40,19 +40,19 @@
     "url": "https://andrewtower.com",
     "icon": "https://icons.duckduckgo.com/ip3/andrewtower.com.ico",
     "slug": "andrew-tower",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 327,
-    "timeWeek": 319,
-    "timeMonth": 320,
-    "timeYear": 347,
+    "time": 346,
+    "timeDay": 285,
+    "timeWeek": 306,
+    "timeMonth": 316,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 7
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://buck.fun",
     "icon": "https://icons.duckduckgo.com/ip3/buck.fun.ico",
     "slug": "buck-fun",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 281,
-    "timeWeek": 311,
-    "timeMonth": 362,
-    "timeYear": 375,
+    "time": 376,
+    "timeDay": 370,
+    "timeWeek": 338,
+    "timeMonth": 367,
+    "timeYear": 376,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 7
     }
   }
 ]
