@@ -4,20 +4,18 @@
     "url": "https://whoisbucktower.com",
     "icon": "https://icons.duckduckgo.com/ip3/whoisbucktower.com.ico",
     "slug": "who-is-buck-tower",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 254,
-    "timeWeek": 322,
-    "timeMonth": 267,
-    "timeYear": 321,
-    "dailyMinutesDown": {
-      "2023-10-25": 8
-    }
+    "time": 318,
+    "timeDay": 377,
+    "timeWeek": 349,
+    "timeMonth": 277,
+    "timeYear": 318,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Buck Tower",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 148,
-    "timeWeek": 171,
-    "timeMonth": 160,
-    "timeYear": 200,
+    "time": 199,
+    "timeDay": 175,
+    "timeWeek": 177,
+    "timeMonth": 162,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -44,18 +42,16 @@
     "slug": "andrew-tower",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 292,
-    "timeWeek": 317,
-    "timeMonth": 282,
+    "timeDay": 288,
+    "timeWeek": 326,
+    "timeMonth": 285,
     "timeYear": 334,
-    "dailyMinutesDown": {
-      "2023-10-25": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Buck.FYI",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 638,
-    "timeWeek": 485,
-    "timeMonth": 497,
-    "timeYear": 539,
+    "time": 541,
+    "timeDay": 757,
+    "timeWeek": 535,
+    "timeMonth": 495,
+    "timeYear": 541,
     "dailyMinutesDown": {}
   },
   {
@@ -87,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 671,
-    "timeDay": 643,
-    "timeWeek": 699,
-    "timeMonth": 650,
+    "timeDay": 654,
+    "timeWeek": 709,
+    "timeMonth": 640,
     "timeYear": 671,
     "dailyMinutesDown": {}
   },
@@ -104,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 217,
-    "timeWeek": 343,
-    "timeMonth": 381,
-    "timeYear": 381,
+    "time": 382,
+    "timeDay": 543,
+    "timeWeek": 404,
+    "timeMonth": 375,
+    "timeYear": 382,
     "dailyMinutesDown": {}
   }
 ]
