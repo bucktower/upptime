@@ -6,18 +6,16 @@
     "slug": "who-is-buck-tower",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 315,
-    "timeWeek": 359,
-    "timeMonth": 307,
+    "timeDay": 361,
+    "timeWeek": 341,
+    "timeMonth": 310,
     "timeYear": 320,
-    "dailyMinutesDown": {
-      "2023-11-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Buck Tower",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 180,
-    "timeWeek": 207,
-    "timeMonth": 174,
-    "timeYear": 200,
+    "time": 201,
+    "timeDay": 427,
+    "timeWeek": 245,
+    "timeMonth": 185,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 241,
-    "timeWeek": 320,
-    "timeMonth": 298,
+    "timeDay": 365,
+    "timeWeek": 339,
+    "timeMonth": 304,
     "timeYear": 334,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
-    "timeDay": 260,
-    "timeWeek": 384,
-    "timeMonth": 498,
+    "timeDay": 629,
+    "timeWeek": 425,
+    "timeMonth": 504,
     "timeYear": 534,
     "dailyMinutesDown": {}
   },
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 300,
-    "timeWeek": 656,
-    "timeMonth": 639,
-    "timeYear": 670,
+    "time": 668,
+    "timeDay": 403,
+    "timeWeek": 594,
+    "timeMonth": 623,
+    "timeYear": 668,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 295,
-    "timeWeek": 432,
+    "time": 385,
+    "timeDay": 530,
+    "timeWeek": 440,
     "timeMonth": 395,
-    "timeYear": 384,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   }
 ]
