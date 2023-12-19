@@ -40,18 +40,20 @@
     "url": "https://andrewtower.com",
     "icon": "https://icons.duckduckgo.com/ip3/andrewtower.com.ico",
     "slug": "andrew-tower",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 323,
-    "timeWeek": 232,
-    "timeMonth": 735,
-    "timeYear": 385,
-    "dailyMinutesDown": {}
+    "time": 426,
+    "timeDay": 4787,
+    "timeWeek": 1360,
+    "timeMonth": 1002,
+    "timeYear": 426,
+    "dailyMinutesDown": {
+      "2023-12-19": 0
+    }
   },
   {
     "name": "Buck.FYI",
