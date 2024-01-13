@@ -22,19 +22,19 @@
     "url": "https://bucktower.net",
     "icon": "https://icons.duckduckgo.com/ip3/bucktower.net.ico",
     "slug": "buck-tower",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 211,
-    "timeWeek": 240,
-    "timeMonth": 186,
-    "timeYear": 187,
+    "time": 188,
+    "timeDay": 234,
+    "timeWeek": 242,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-01-13": 0
+      "2024-01-13": 9
     }
   },
   {
