@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 225,
-    "timeWeek": 342,
-    "timeMonth": 348,
-    "timeYear": 311,
+    "time": 312,
+    "timeDay": 367,
+    "timeWeek": 359,
+    "timeMonth": 345,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "buck-tower",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 234,
-    "timeWeek": 242,
-    "timeMonth": 188,
+    "timeDay": 275,
+    "timeWeek": 253,
+    "timeMonth": 192,
     "timeYear": 188,
-    "dailyMinutesDown": {
-      "2024-01-13": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Andrew Tower",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 415,
-    "timeDay": 348,
-    "timeWeek": 350,
-    "timeMonth": 576,
+    "timeDay": 415,
+    "timeWeek": 354,
+    "timeMonth": 581,
     "timeYear": 415,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 538,
-    "timeDay": 984,
-    "timeWeek": 584,
-    "timeMonth": 527,
+    "timeDay": 590,
+    "timeWeek": 599,
+    "timeMonth": 521,
     "timeYear": 538,
     "dailyMinutesDown": {}
   },
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 658,
-    "timeDay": 431,
-    "timeWeek": 608,
-    "timeMonth": 659,
+    "timeDay": 827,
+    "timeWeek": 630,
+    "timeMonth": 664,
     "timeYear": 658,
     "dailyMinutesDown": {}
   },
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 611,
-    "timeWeek": 445,
-    "timeMonth": 428,
-    "timeYear": 378,
+    "time": 379,
+    "timeDay": 463,
+    "timeWeek": 453,
+    "timeMonth": 419,
+    "timeYear": 379,
     "dailyMinutesDown": {}
   }
 ]
