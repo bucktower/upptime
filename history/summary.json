@@ -4,10 +4,10 @@
     "url": "https://whoisbucktower.com",
     "icon": "https://icons.duckduckgo.com/ip3/whoisbucktower.com.ico",
     "slug": "who-is-buck-tower",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
@@ -15,17 +15,19 @@
     "timeWeek": 317,
     "timeMonth": 346,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-15": 1
+    }
   },
   {
     "name": "Buck Tower",
     "url": "https://bucktower.net",
     "icon": "https://icons.duckduckgo.com/ip3/bucktower.net.ico",
     "slug": "buck-tower",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
@@ -33,7 +35,9 @@
     "timeWeek": 245,
     "timeMonth": 196,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-15": 1
+    }
   },
   {
     "name": "Andrew Tower",
