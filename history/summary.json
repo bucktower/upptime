@@ -4,19 +4,19 @@
     "url": "https://whoisbucktower.com",
     "icon": "https://icons.duckduckgo.com/ip3/whoisbucktower.com.ico",
     "slug": "who-is-buck-tower",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 704,
-    "timeWeek": 429,
-    "timeMonth": 373,
-    "timeYear": 315,
+    "time": 317,
+    "timeDay": 740,
+    "timeWeek": 471,
+    "timeMonth": 386,
+    "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-01-15": 0
+      "2024-01-15": 8
     }
   },
   {
