@@ -4,19 +4,19 @@
     "url": "https://whoisbucktower.com",
     "icon": "https://icons.duckduckgo.com/ip3/whoisbucktower.com.ico",
     "slug": "who-is-buck-tower",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 403,
-    "timeWeek": 469,
-    "timeMonth": 389,
+    "timeDay": 382,
+    "timeWeek": 458,
+    "timeMonth": 388,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://bucktower.net",
     "icon": "https://icons.duckduckgo.com/ip3/bucktower.net.ico",
     "slug": "buck-tower",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 320,
-    "timeWeek": 256,
-    "timeMonth": 205,
-    "timeYear": 189,
+    "time": 198,
+    "timeDay": 1017,
+    "timeWeek": 452,
+    "timeMonth": 268,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://andrewtower.com",
     "icon": "https://icons.duckduckgo.com/ip3/andrewtower.com.ico",
     "slug": "andrew-tower",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 418,
-    "timeDay": 819,
-    "timeWeek": 479,
-    "timeMonth": 611,
+    "timeDay": 703,
+    "timeWeek": 478,
+    "timeMonth": 607,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 8
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://buck.fyi",
     "icon": "https://icons.duckduckgo.com/ip3/buck.fyi.ico",
     "slug": "buck-fyi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 815,
-    "timeWeek": 708,
-    "timeMonth": 537,
-    "timeYear": 541,
+    "time": 553,
+    "timeDay": 1713,
+    "timeWeek": 1019,
+    "timeMonth": 627,
+    "timeYear": 553,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 8
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://buck.band",
     "icon": "https://icons.duckduckgo.com/ip3/buck.band.ico",
     "slug": "buck-band",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 1111,
-    "timeWeek": 712,
-    "timeMonth": 701,
-    "timeYear": 661,
+    "time": 662,
+    "timeDay": 1013,
+    "timeWeek": 724,
+    "timeMonth": 705,
+    "timeYear": 662,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 8
     }
   },
   {
@@ -106,9 +106,9 @@
     "slug": "buck-fun",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 377,
     "timeDay": 267,
@@ -116,7 +116,7 @@
     "timeMonth": 406,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 8
     }
   }
 ]
