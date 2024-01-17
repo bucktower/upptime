@@ -6,18 +6,16 @@
     "slug": "who-is-buck-tower",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
     "timeDay": 382,
     "timeWeek": 458,
     "timeMonth": 388,
     "timeYear": 317,
-    "dailyMinutesDown": {
-      "2024-01-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Buck Tower",
@@ -26,18 +24,16 @@
     "slug": "buck-tower",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
     "timeDay": 1017,
     "timeWeek": 452,
     "timeMonth": 268,
     "timeYear": 198,
-    "dailyMinutesDown": {
-      "2024-01-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Andrew Tower",
@@ -46,18 +42,16 @@
     "slug": "andrew-tower",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 418,
     "timeDay": 703,
     "timeWeek": 478,
     "timeMonth": 607,
     "timeYear": 418,
-    "dailyMinutesDown": {
-      "2024-01-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Buck.FYI",
@@ -66,18 +60,16 @@
     "slug": "buck-fyi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 553,
     "timeDay": 1713,
     "timeWeek": 1019,
     "timeMonth": 627,
     "timeYear": 553,
-    "dailyMinutesDown": {
-      "2024-01-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Buck.Band",
@@ -86,37 +78,35 @@
     "slug": "buck-band",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 662,
     "timeDay": 1013,
     "timeWeek": 724,
     "timeMonth": 705,
     "timeYear": 662,
-    "dailyMinutesDown": {
-      "2024-01-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Buck.Fun",
     "url": "https://buck.fun",
     "icon": "https://icons.duckduckgo.com/ip3/buck.fun.ico",
     "slug": "buck-fun",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 267,
-    "timeWeek": 390,
-    "timeMonth": 406,
+    "timeDay": 361,
+    "timeWeek": 408,
+    "timeMonth": 410,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2024-01-17": 8
+      "2024-01-17": 17
     }
   }
 ]
